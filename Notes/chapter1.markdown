@@ -137,7 +137,7 @@ in winter, we need it to be less cold. A fridge can have an arbitrary
 scale. It can have 2 controls, one for the fridge and one for the 
 freezer. The scales could mean different things. In contrast, using a 
 scale based on temperatures is much easier. However, this is more 
-costly, so many fridge designs have arbitriary scales. There are many 
+costly, so many fridge designs have arbitrary scales. There are many 
 factors in design.
 
 ### Good Design 
