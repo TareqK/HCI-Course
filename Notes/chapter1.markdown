@@ -15,6 +15,8 @@ Throughout this course, we will be studying the three parts of HCI :
 - The Interaction between them, and what feelings result when it happens, 
 negative or positive, and how easy ant difficult it is.
 
+---
+
 ## General Design Concepts
 
 
@@ -253,6 +255,8 @@ These are divide to 2 gulfs :
 
 These gulfs are used to bridge the gap between what we want to do and 
 what we have done. 
+
+---
 
 ![gulf](https://interactioncultureclass.files.wordpress.com/2012/01/hutchinhollannorman.png)
 
