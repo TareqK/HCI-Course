@@ -103,7 +103,7 @@ perhaps even modify the design for different regions.
 
 How usable is the product? How many people can access it? We want as many
 people to be able to use the product and benefit from it. This is especially
-true when it comes to disabled people, that have mental or physical impairments that 
+true when it comes to disabled people, that have permanent mental or physical impairments that 
 have an effect on their everyday life.
 
 ---
@@ -113,9 +113,9 @@ have an effect on their everyday life.
 1. Effective to use : effective in terms of number of steps/task, and results.
 2. Efficient to use : efficient in terms of time to perform a whole task.
 3. Safe to use : Using it would not cause harm(physical or otherwise to the user)
-4. Utility : The product has to have all the functionality needed to use.
-5. Easy to Learn : The product has to be intuitive and easy to use for the user.
-6. Easy to Remember how to use : Features should be distinct and memorable.
+4. Have good utility : The product has to have all the functionality needed to use.
+5. Easy to learn : The product has to be intuitive and easy to use for the user.
+6. Easy to remember how to use : Features should be distinct and memorable.
 
 There will always be a trade-off. An effective product could be inefficient, 
 or an efficient one ineffective. A Safe product could sacrifice utility and
@@ -123,7 +123,153 @@ vice-versa.
 
 ---
 
+## User Experience Goals
+
+We have 2 sets of goals :
+
+1. Desirable aspects : satisfying, enjoyable, engaging, pleasurable, 
+exciting, entertaining, helpful, fun, stimulating, fulfilling, rewarding,
+surprising, etc. These are things we want to have in our products when 
+we design them. There are a lot of qualities other than these we want 
+in our product.
+
+2. Undesirable Aspects : boring, frustrating, unpleasant, annoying, making
+one feel guilty, gimmicky, etc. These are things we do **not** want to have
+in our product.
 
 
+Selecting terms to convey a persons feelings, emotions, etc, can help
+designers understand he multifaceted nature of UX.
 
+---
+
+## Difference Between Usability and User Experience Goals.
+
+Usability goals are the goals related to the characteristics of the
+product, while UX goals are related to the perception of the product, 
+and is dependant on humans. 
+
+We can have good usability and UX in a product, however, it is usually
+a trade off. 
+
+Usability is easier to measure, since it is an **objective** property. UX on 
+the other hand, is **subjective**, and differs from user to user, so it 
+is more difficult to measure.
+
+Measuring UX is dependant on statistics and collecting data from our 
+users and making generalizations from it.
+
+---
+
+## Design Principles 
+
+1. Generalizable abstractions for thinking about different aspects of the design
+2. The **do's** and **don'ts** of interaction design.--> Don't repeat work others have done.
+3. What to provide and not provide at the interface.--> Look into research into interface design
+4. Derived from a mix of theory-based knowledge, experience, and common sense. --> There are many studies about this.
+
+---
+
+### Visibility 
+
+Have signs and signifires. What i want to do should be extremely 
+visible. If i have to insert a card to a slot, then the slot has to be 
+apparent and labelled. If i have to use a button, then it's action needs
+to be marked and labelled, and the button has to be visible to me.
+
+If the product cannot be made visible in its current state, then you need
+research other design options
+
+in short :  
+
+> Make relevant parts visible, Make what has to be done obvious.
+
+
+---
+
+### Feedback
+
+Performing an action with/on the product should give some information 
+back the the user in some form or the other. This includes sound, highlighting,
+animation, or any combination of these. 
+
+This is doubly important for people with impairments, since we need to be 
+able to notify them too. A Deaf man can't hear a beep, a blind man can't
+see a flash, etc. We need to take these people into consideration too.
+
+We also need to pay attention to where the product will be used. Something
+designed to be used in a factory, for example, will have different
+feedback than something designed for home use, in intensity and type.
+
+---
+
+### Constraints
+
+We may need to restrict the possible actions the the user can do. This 
+prevents the user from setting incorrect options. Physical objects can be 
+designed to constrain things(eg, keys and locks). Software as well can 
+be designed to constrain things(through priorities and authentication/authorisation
+and flow control).
+
+Sometimes, we have to design a product, but the constraints prevent us from
+designing it logically. We have to design around these and make sure they 
+are useble.
+
+---
+
+### Consistency
+
+If we want to design a product, then there should be some shared experience
+or interface to using it, and it should have similar elements for similar 
+tasks(for example, the Ctrl key as the initial of an operation, like
+ctrl-c, ctrl-s, ctrl-z). Otherwise, the product becomes confusing. Good, 
+consistent design makes the product easier to learn and use.
+
+But what if we cant be consistent? What if the product has to do 
+a lot of things, and there isn't a consistent way to express them?
+
+There are 2 types of consistency
+
+1. Internal Consistency : Designing operations to behave the same
+**within** the product. This gets increasingly difficult with more 
+complex interfaces.
+
+2. External Consistency : Designing operations to behave the same **across**
+applications and devices. That is to say, performing a certain operation
+using different products is the same. This is usually rare, and 
+depends on the designers preference. 
+
+As an example, the keypad on remotes and phones is said to be externally consistent
+because it is of the same form. However, a computer keyboard is externally
+consistent with a calculator. However, phones and remotes are not externally 
+consistent between keyboards and calculators.
+
+---
+
+### Affordances 
+
+Giving clues to users. This refers to an attribute of an object
+that shows people how to use it. A button that says "on" invites us
+to turn on the product. 
+
+---
+
+### Mapping
+
+Mapping is how the interface relates to the product's functions,
+and how they are presented to the user.
+
+As a note, any design that uses labels means that it's mapping 
+is not intuitive enough. However, sometimes it is not possible to make a
+design completely intuitive given some constraints.
+
+---
+
+Interaction Design is concerned with designing interactive products to support
+the way people communicate in their everyday life. It is connected to 
+creating a  quality user experience. It requires taking into account a number
+of interdependent factors, including context, usage, target groups, culture, 
+to make the best possible product.
+
+---
 
