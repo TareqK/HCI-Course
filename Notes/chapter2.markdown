@@ -273,3 +273,206 @@ to make the best possible product.
 
 ---
 
+# Understanding And Conceptualisation Interaction
+
+HCI has moved beyond just designing interfaces for desktop machines. We 
+can apply HCI concepts and methods to any design we want. We Facilitate
+user experiences through designing interactions. By doing so, 
+
+1. We make work effective, efficient, and safer.
+2. Improve and enhance learning and training.
+3. Provide enjoyable and exciting entertainment.
+4. Enhance communication and understanding.
+5. Support new forms of creativity and expression.
+
+## Understanding the Problem Space
+
+1. What do I want to create?
+2. What are my assumptions? 
+3. Does it acheive what i want?
+
+---
+
+### Assumptions
+
+Assumptions are taking something for granted when it needs further 
+investigations.
+
+---
+
+### Claim
+
+A Claim is stating something to be true when it is still open 
+to question.
+
+---
+
+### A Framework for Analysing the Problem Space
+
+1. Are there any problems with the system or UX? What are they?
+2. Why do you think there are problems?
+3. How do you think your proposed design ideas might overcome these?
+4. If you are designing for a new UX, how do you think your proposed
+design ideas support, change, or extend current ways of doing things.
+
+---
+
+### From Problem Space to Design Space
+
+Having a good understanding of the problem space can help inform the  
+design space. eg, what kind of functionality to provide. Before deciding 
+upon these, it is important to develop a conceptual model.
+
+---
+
+### Conceptual Model Components
+
+1. Metaphors and Analogies.
+2. Concepts.
+3. Relationships and Mappings between these concepts.
+
+We need to ask ourselves some questions to do this :
+
+1. What will the users be doing when performing their tasks.
+2. How will the system support these
+3. What is the interface metaphor?
+4. What kinds of interactions will this model use?
+
+---
+
+### Interface Metaphor
+
+1. Conceptualising what we are doing.
+2. A Conceptual model instantiated at the interface.
+3. Visualising an operation.
+4. can be based on object or activity
+5. exploit knowledge
+
+We sometimes can mimic another product in another one, especially if it 
+is a familiar one. This is especially true for software. For example,
+calculators, online shopping carts.
+
+Interface metaphors make learning new systems easier, understand 
+the underlying conceptual model, and makes it easier to innovate and enable
+the realm to be more accessible to a greater diversity group of users.
+
+However, interface metaphors can break conventions and cultural rules, 
+eg, recycle bin on the desktop. It can also limit designers in the 
+way they conceptualise the problem space. it also forces users to 
+understand the system in terms of the metaphor, ie, they do not understand
+the system of utility for what it is. It also limits the designers imagination
+in coming up with new conceptual models. 
+
+---
+
+## Interaction Types
+
+There are four types of interaction :
+
+1. Instructing : issuing commands and selecting options
+2. Conversing : Interacting with the system as if having a conversation.
+3. Manipulation : interacting with objects in a virtual or physical space by manipulating them
+4. Exploring : Moving through a virtual environment or physical space.
+
+---
+
+### Instructing
+
+1. Users instruct a system and tell it what to do.
+2. Very common conceptual model, present in a lot of devices and systems.
+3. Quick and efficient interaction - good for repetitive tasks.
+
+
+
+---
+
+### Conversing 
+
+1. Similar to having a conversation with another human.
+2. Range from simple voice recognition to more complex natural language dialogues.
+3. Search engines, advice systems, help systems are examples.
+4. Virtual Agents, toys, and pet robots are also available.
+
+- Pro :
+  - Allows users to interact with the system in a familiar way.
+  - Make users comfortable and at ease.
+- Con : 
+  - Sometimes the system does not understand what the user says. this 
+  makes it feel bad to use it
+  
+---
+
+### Manipulation 
+
+1. Involves dragging, selecting, opening, closing ,zooming, etc actions 
+on objects.
+2. Exploit user's knowledge if how they move and manipulate 
+in the physical world.
+3. Can involve physical controllers like the wii or air gestures like 
+the kinect to control the movements of an onscreen avatar.
+4. Tagged physical objects that are manipulated in a physical world 
+result in physical/digital events.
+
+These interfaces are more enjoyable, because they are easier to learn,
+but also robust and customisable, and even irregular users can hold 
+concepts over time. Error messages are rarely needed, and users can 
+immediately see their actions results. User experience is less of a worry, 
+and users feel more confident and gain mastery and control using the system.
+
+However, sometimes people will take it too far or too literal. Not all 
+tasks can be described by objects and not all actions can be done directly. 
+Moving a mouse around the screen can be slower than pressing function keys 
+to do the same actions.
+
+---
+
+### Exploring 
+
+Moving through a virtual or physical environment(with embedded sensors and
+actuators).
+
+---
+
+### What is the best interaction type ?
+
+None. This is a design space. The answer is always "depends".
+
+More often than not, one type of model is not enough. So we have
+to mix and match components to models.
+
+---
+
+## Interface Types
+
+
+There are many kinds of interfaces : 
+
+1. Cmd  
+2. Speech 
+3. Data-entry 
+4. Forms 
+5. Query
+6. Graphical 
+7. Web
+8. Pen
+9. Augmented reality
+10. Gestures
+
+To choose one or more interface for our product,
+we need to ask ourselves :  
+
+1. Determine the requirements and user needs.
+2. Take budget and other constraints into account.
+3. The suitability of the technology for the activity.
+
+---
+
+### Paradigm 
+
+1. Inspiration for a conceptual model.
+2. General approach adopted by a community to carry out research
+   - Shared assumptions, concepts, values, and practices, eg desktop, ubiquitous
+   computing, web, etc.
+   - Examples of new paradigms : Ubiquitous computing, pervasive computing, wearable,
+   tangible bits, augmented reality, attentive environment, transparent computing.
+
