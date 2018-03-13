@@ -9,12 +9,64 @@
 
 ---
 
-## Practical Issues in Interaction design
+### Practical Issues in Interaction design
 
 1. Who is the user?
 2. What are 'needs'?
 3. Where do alternatives come from?
 4. How do we choose among the alternatives?
+
+#### Users/Stakeholders
+
+- those who interact with the project.
+- those who manage direct users.
+- those who receive output from the product.
+- those who make the purchasing decision.
+- those who use the competitors product.
+
+There are three main categories of users 
+
+1. Primary user : Frequent, hands-on user.
+2. Secondary user : Occasional user, or users the product via someone else.
+3. Tertiary user : affected by its introduction, or will influence its purchase.
+
+---
+
+#### Needs 
+
+- Users rarely know what is possible.
+- Users cant tell you what they need to help them achieve their goals.
+- Instead, we need to look at existing tasks :
+  - their context.
+  - what information do they require.
+  - what collaborates to achieve the task.
+  - why is the task achieved the way it is.
+  
+---
+
+#### Generating Alternatives
+
+Humans tend to stick to what they know works. However, considering alternatives
+is important to ' break out of the box '. Designers are trained to consider alternatives,
+software people usually are not. So how do we generate alternatives?
+
+1. Creativity : Research and synthesis.
+2. Inspiration : Look at similar products or look at very different products.
+
+---
+
+#### Choosing Among Alternatives 
+
+- Evaluation with users or with peers, eg prototypes.
+- Technical feasibility : some are not possible.
+- Quality Thresholds : Usability goals lead to usability criteria set 
+early on and checked regularly :
+  - Safety.
+  - Utility.
+  - Effectiveness.
+  - Efficiency.
+  - Learnability.
+  - Momorabilty. 
 
 ---
 
@@ -31,7 +83,7 @@ There are 4 approaches to Interaction design :
 
 --- 
 
-## Importance of Involving Users 
+### Importance of Involving Users 
 
 1. Managing Expectations
    - Realistic expectations.
@@ -47,7 +99,7 @@ There are 4 approaches to Interaction design :
 
 ---
 
-## Degrees of User Involvement
+### Degrees of User Involvement
 
 1. Member of the designing team :
    - Full time : constant input, but loses touch with users.
@@ -68,7 +120,7 @@ There are 4 approaches to Interaction design :
 ## The User Centred Approach 
 
 1. Early Focus on Users and Tasks :
-   - Who the users will be 
+   - Who the users will be.
    - Studying cognitive, behavioural and attitudinal characteristics.
    
 2. Empirical Measurement :
@@ -79,3 +131,20 @@ There are 4 approaches to Interaction design :
    
 ---
 
+
+## Basic Activities in Interaction Design
+
+1. Establishing requirements.
+2. Designing alternatives.
+3. Prototyping.
+4. Evaluating.
+
+
+The life cycle has 4 main parts, shown here :
+
+![lifecycle](http://slideplayer.com/slide/6854424/23/images/28/A+simple+interaction+design+model.jpg)
+
+It is important to note that the final product is iterated again and again, 
+because no product can be perfect.
+
+----
