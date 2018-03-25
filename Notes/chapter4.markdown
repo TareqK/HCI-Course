@@ -184,14 +184,56 @@ meetings.
 
 ### Some Basic Guidelines
 
-- See from slides
+- Focus on needs.
+
+- Involve all stakeholders.
+
+- Involve more than one representative from groups.
+
+- Combine data gathering techniques.
+
+- Support the process with props.
+
+- Run a pilot session.
+
+- You will need to comprimise on the data and analysis, but 
+before we make practial comprimises, know what you really want. 
+
+- Mind how you collect the data.
 
 ---
 
 ### Data interpretation and Analysis
 
-- See from slides
+- Start as soon as you are done gathering
+
+- Initial interpretation before deeper analysis
+
+- Different approaches emphaize different elements
+
 
 ---
+
+## Task Descriptions
+
+- Scenarios : An informal narrative story, not generalisable.
+
+- Use cases : assume interaction with a system, assume detailed understanding
+of the interaction
+
+
+- Essential use cases : Abstract away from details, don't have assumptions like
+uses cases.
+
+
+- Task descriptions are used when imaging new systems
+
+- Task analysis is used to investigate an existing situation
+
+- It is important to not focus on shallow activities, what are they trying 
+to achieve, why are they trying to achieve it, how are they going about it?
+
+- Many Techniques, but the most popular is HTA, **H**ierarchical **T**ask **A**nalysis.
+
 
 ---
