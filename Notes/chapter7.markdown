@@ -62,3 +62,14 @@ in te other location
 
 - Project body movements, voice, actions, and facial expressions to 
 another person, eg, via superimposing images.
+
+
+### Co-Presence 
+
+Technologies that allow co-located groups to collaborate more effectively
+when doing their activities, eg smart boards.
+
+
+---
+
+

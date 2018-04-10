@@ -27,13 +27,10 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=5
-FILE_NAME_0=8875;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter1.markdown;1;4
-FILE_NAME_1=15719;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter2.markdown;0;4
-FILE_NAME_2=4046;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter3.markdown;0;4
-FILE_NAME_3=6104;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter4.markdown;0;4
-FILE_NAME_4=2296;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter5.markdown;0;4
-FILE_NAME_5=1847;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter6.markdown;0;4
+current_page=2
+FILE_NAME_0=5379;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter6.markdown;0;4
+FILE_NAME_1=1655;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter7.markdown;0;4
+FILE_NAME_2=4000;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter8.markdown;0;4
 
 [VTE]
 last_dir=/home/tareq/Code/HCI-Course
