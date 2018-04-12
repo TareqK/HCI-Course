@@ -27,10 +27,11 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=2
+current_page=3
 FILE_NAME_0=5379;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter6.markdown;0;4
 FILE_NAME_1=1655;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter7.markdown;0;4
-FILE_NAME_2=4000;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter8.markdown;0;4
+FILE_NAME_2=4782;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter8.markdown;0;4
+FILE_NAME_3=3592;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Ftareq%2FCode%2FHCI-Course%2FNotes%2Fchapter9.markdown;0;4
 
 [VTE]
 last_dir=/home/tareq/Code/HCI-Course
